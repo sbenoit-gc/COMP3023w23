@@ -5,9 +5,9 @@
 A github repository for the in class demonstrations.<br><br> 
 
 Attributions:
-Field of dreams background music, OpenGameArt.org, https://opengameart.org/content/the-field-of-dreams
-Bubble popping noise, OpenGameArt.org, https://opengameart.org/content/bubbles-pop
-Clanking noise, Brian Macintosh, OpenGameArt.org, https://opengameart.org/content/metal-impact-sounds
+- Field of dreams background music, OpenGameArt.org,  ( https://opengameart.org/content/the-field-of-dreams )
+- Bubble popping noise, OpenGameArt.org, ( https://opengameart.org/content/bubbles-pop )
+- Clanking noise, Brian Macintosh, OpenGameArt.org, ( https://opengameart.org/content/metal-impact-sounds )
 
 ## Usage
 Clone, or download the zip, to a local directory. Open in Unreal Engine 4.27 or newer
