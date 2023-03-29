@@ -12,6 +12,9 @@ Attributions:
 - TV Screen image, Rawpixel, ( https://www.rawpixel.com/image/5923507/photo-image-background-public-domain-hand )
 - Sad Trombone, MediaFire, ( http://www.mediafire.com/file/jsu81lo7ko036st/Sad+Trombone+Wah+Wah+Wah+Fail+Sound+-+Sound+Effect+%2335.mp3 )
 - Toy rocket ship, SM_Childrens_Room_Decor_5 from Interk Modern House asset pack, ( https://www.unrealengine.com/marketplace/en-US/product/modern-house )
+- Birch Tree, sandralavixen @free3d ( https://free3d.com/3d-model/birch-tree-48016.html )
+- mountain view hdri backdrop, Andreas Mischok @polyhaven ( https://polyhaven.com/a/alps_field  )
+- brick material, ( https://freepbr.com/materials/worn-out-old-brick-wall-pbr-material/ )
 
 ## Usage
 Clone, or download the zip, to a local directory. Open in Unreal Engine 4.27 or newer
